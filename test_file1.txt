@@ -1,3 +1,7 @@
 im adding to the file to test merging in github
 
+<<<<<<< HEAD
 bye
+=======
+hello
+>>>>>>> test2
